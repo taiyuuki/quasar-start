@@ -1,0 +1,33 @@
+import{aj as n,o as e,f as a,g as s,C as l}from"./index.d226bdce.js";const t={class:"markdown-body"},c=s("h3",null,"Markdown Page",-1),p=s("pre",null,[s("code",{class:"language-vue"},[s("div",{class:"shiki-container"},[s("pre",{class:"shiki shiki-dark",style:{"background-color":"#1E1E1E"}},[s("code",{"v-pre":""},[s("span",{class:"line"},[s("span",{style:{color:"#6A9955"}},"<!-- ExampleComponent.vue -->")]),l(`
+`),s("span",{class:"line"},[s("span",{style:{color:"#808080"}},"<"),s("span",{style:{color:"#569CD6"}},"template"),s("span",{style:{color:"#808080"}},">")]),l(`
+`),s("span",{class:"line"},[s("span",{style:{color:"#D4D4D4"}},"  "),s("span",{style:{color:"#808080"}},"<"),s("span",{style:{color:"#569CD6"}},"div"),s("span",{style:{color:"#808080"}},">")]),l(`
+`),s("span",{class:"line"},[s("span",{style:{color:"#D4D4D4"}},"    "),s("span",{style:{color:"#808080"}},"<"),s("span",{style:{color:"#569CD6"}},"h1")]),l(`
+`),s("span",{class:"line"},[s("span",{style:{color:"#D4D4D4"}},"      "),s("span",{style:{color:"#9CDCFE"}},"text"),s("span",{style:{color:"#D4D4D4"}},"="),s("span",{style:{color:"#CE9178"}},'"2rem center bold"')]),l(`
+`),s("span",{class:"line"},[s("span",{style:{color:"#D4D4D4"}},"      "),s("span",{style:{color:"#9CDCFE"}},"m"),s("span",{style:{color:"#D4D4D4"}},"="),s("span",{style:{color:"#CE9178"}},'"10"')]),l(`
+`),s("span",{class:"line"},[s("span",{style:{color:"#D4D4D4"}},"    "),s("span",{style:{color:"#808080"}},">")]),l(`
+`),s("span",{class:"line"},[s("span",{style:{color:"#D4D4D4"}},"      {{ "),s("span",{style:{color:"#DCDCAA"}},"$t"),s("span",{style:{color:"#D4D4D4"}},"("),s("span",{style:{color:"#CE9178"}},"'home.title'"),s("span",{style:{color:"#D4D4D4"}},") }}")]),l(`
+`),s("span",{class:"line"},[s("span",{style:{color:"#D4D4D4"}},"    "),s("span",{style:{color:"#808080"}},"</"),s("span",{style:{color:"#569CD6"}},"h1"),s("span",{style:{color:"#808080"}},">")]),l(`
+`),s("span",{class:"line"},[s("span",{style:{color:"#D4D4D4"}},"    "),s("span",{style:{color:"#808080"}},"<"),s("span",{style:{color:"#4EC9B0"}},"Features"),s("span",{style:{color:"#D4D4D4"}}," /"),s("span",{style:{color:"#808080"}},">")]),l(`
+`),s("span",{class:"line"},[s("span",{style:{color:"#D4D4D4"}},"  "),s("span",{style:{color:"#808080"}},"</"),s("span",{style:{color:"#569CD6"}},"div"),s("span",{style:{color:"#808080"}},">")]),l(`
+`),s("span",{class:"line"},[s("span",{style:{color:"#808080"}},"</"),s("span",{style:{color:"#569CD6"}},"template"),s("span",{style:{color:"#808080"}},">")]),l(`
+`),s("span",{class:"line"}),l(`
+`),s("span",{class:"line"},[s("span",{style:{color:"#808080"}},"<"),s("span",{style:{color:"#569CD6"}},"script"),s("span",{style:{color:"#D4D4D4"}}," "),s("span",{style:{color:"#9CDCFE"}},"setup"),s("span",{style:{color:"#D4D4D4"}}," "),s("span",{style:{color:"#9CDCFE"}},"lang"),s("span",{style:{color:"#D4D4D4"}},"="),s("span",{style:{color:"#CE9178"}},'"ts"'),s("span",{style:{color:"#808080"}},">")]),l(`
+`),s("span",{class:"line"},[s("span",{style:{color:"#C586C0"}},"import"),s("span",{style:{color:"#D4D4D4"}}," "),s("span",{style:{color:"#9CDCFE"}},"Features"),s("span",{style:{color:"#D4D4D4"}}," "),s("span",{style:{color:"#C586C0"}},"from"),s("span",{style:{color:"#D4D4D4"}}," "),s("span",{style:{color:"#CE9178"}},"'src/md/Features.md'")]),l(`
+`),s("span",{class:"line"},[s("span",{style:{color:"#808080"}},"</"),s("span",{style:{color:"#569CD6"}},"script"),s("span",{style:{color:"#808080"}},">")]),l(`
+`),s("span",{class:"line"})])]),s("pre",{class:"shiki shiki-light",style:{"background-color":"#FFFFFF"}},[s("code",{"v-pre":""},[s("span",{class:"line"},[s("span",{style:{color:"#008000"}},"<!-- ExampleComponent.vue -->")]),l(`
+`),s("span",{class:"line"},[s("span",{style:{color:"#800000"}},"<template>")]),l(`
+`),s("span",{class:"line"},[s("span",{style:{color:"#000000"}},"  "),s("span",{style:{color:"#800000"}},"<div>")]),l(`
+`),s("span",{class:"line"},[s("span",{style:{color:"#000000"}},"    "),s("span",{style:{color:"#800000"}},"<h1")]),l(`
+`),s("span",{class:"line"},[s("span",{style:{color:"#000000"}},"      "),s("span",{style:{color:"#FF0000"}},"text"),s("span",{style:{color:"#000000"}},"="),s("span",{style:{color:"#0000FF"}},'"2rem center bold"')]),l(`
+`),s("span",{class:"line"},[s("span",{style:{color:"#000000"}},"      "),s("span",{style:{color:"#FF0000"}},"m"),s("span",{style:{color:"#000000"}},"="),s("span",{style:{color:"#0000FF"}},'"10"')]),l(`
+`),s("span",{class:"line"},[s("span",{style:{color:"#000000"}},"    "),s("span",{style:{color:"#800000"}},">")]),l(`
+`),s("span",{class:"line"},[s("span",{style:{color:"#000000"}},"      {{ "),s("span",{style:{color:"#795E26"}},"$t"),s("span",{style:{color:"#000000"}},"("),s("span",{style:{color:"#A31515"}},"'home.title'"),s("span",{style:{color:"#000000"}},") }}")]),l(`
+`),s("span",{class:"line"},[s("span",{style:{color:"#000000"}},"    "),s("span",{style:{color:"#800000"}},"</h1>")]),l(`
+`),s("span",{class:"line"},[s("span",{style:{color:"#000000"}},"    "),s("span",{style:{color:"#800000"}},"<"),s("span",{style:{color:"#267F99"}},"Features"),s("span",{style:{color:"#000000"}}," /"),s("span",{style:{color:"#800000"}},">")]),l(`
+`),s("span",{class:"line"},[s("span",{style:{color:"#000000"}},"  "),s("span",{style:{color:"#800000"}},"</div>")]),l(`
+`),s("span",{class:"line"},[s("span",{style:{color:"#800000"}},"</template>")]),l(`
+`),s("span",{class:"line"}),l(`
+`),s("span",{class:"line"},[s("span",{style:{color:"#800000"}},"<script"),s("span",{style:{color:"#000000"}}," "),s("span",{style:{color:"#FF0000"}},"setup"),s("span",{style:{color:"#000000"}}," "),s("span",{style:{color:"#FF0000"}},"lang"),s("span",{style:{color:"#000000"}},"="),s("span",{style:{color:"#0000FF"}},'"ts"'),s("span",{style:{color:"#800000"}},">")]),l(`
+`),s("span",{class:"line"},[s("span",{style:{color:"#AF00DB"}},"import"),s("span",{style:{color:"#000000"}}," "),s("span",{style:{color:"#001080"}},"Features"),s("span",{style:{color:"#000000"}}," "),s("span",{style:{color:"#AF00DB"}},"from"),s("span",{style:{color:"#000000"}}," "),s("span",{style:{color:"#A31515"}},"'src/md/Features.md'")]),l(`
+`),s("span",{class:"line"},[s("span",{style:{color:"#800000"}},"<\/script>")]),l(`
+`),s("span",{class:"line"})])])])])],-1),r=[c,p],C="Markdown",u=[{property:"og:title",content:"Markdown"}],h={__name:"MarkdownPage",setup(y,{expose:o}){return o({frontmatter:{title:"Markdown",meta:[{property:"og:title",content:"Markdown"}]}}),n({title:"Markdown",meta:[{property:"og:title",content:"Markdown"}]}),(d,F)=>(e(),a("div",t,r))}};export{h as default,u as meta,C as title};
