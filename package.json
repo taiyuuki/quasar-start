@@ -1,6 +1,6 @@
 {
   "name": "quasar-start",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Quasar Starter Template",
   "productName": "Quasar Start",
   "author": "taiyuuki <taiyuuki@qq.com>",
@@ -20,7 +20,7 @@
     "pinia": "^2.0.11",
     "pinia-plugin-persistedstate": "^2.3.0",
     "quasar": "^2.6.0",
-    "vue": "^3.0.0",
+    "vue": "3.2.25",
     "vue-i18n": "^9.2.2",
     "vue-router": "^4.0.0"
   },
@@ -28,7 +28,7 @@
     "@iconify-json/uil": "^1.1.2",
     "@intlify/vite-plugin-vue-i18n": "^3.3.1",
     "@quasar/app-vite": "^1.0.0",
-    "@taiyuuki/eslint-config-vue-unimport": "0.0.3",
+    "@taiyuuki/eslint-config-vue-unimport": "0.0.5",
     "@types/node": "^12.20.55",
     "@typescript-eslint/eslint-plugin": "^5.10.0",
     "@typescript-eslint/parser": "^5.10.0",
